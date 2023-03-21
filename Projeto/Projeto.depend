@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1676297993 source:c:\users\lucas.santos119\desktop\projeto\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1677637533 source:c:\users\lucas batista\desktop\projeto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoes.h"
+
+1677637749 c:\users\lucas batista\desktop\projeto\funcoes.h
+	<stdio.h>
+	<string.h>
+
+1677637533 source:c:\users\lucas batista\documents\materiais\algoritmos\projeto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoes.h"
+
+1677637749 c:\users\lucas batista\documents\materiais\algoritmos\projeto\funcoes.h
+	<stdio.h>
+	<string.h>
+
